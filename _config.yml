@@ -54,7 +54,7 @@ navigationLinks:
 #  - {link: "#", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "black.png"
+heroImage: "fundo_escuro.png"
 heroTitle: "+Con | <typeout> "
 eventDate: "Mendoza - 30/09/2017"
 typeoutTextValues: '"", "ferencia", "versación ", "vos ", "Diseno" ,"desarrollo"'
